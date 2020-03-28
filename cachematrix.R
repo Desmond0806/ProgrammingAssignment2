@@ -1,5 +1,7 @@
-### Put comments here that give an overall description of what your
-### functions do
+### This is a project to understand and make use of the lexical scoping feature in R. This
+### project involves caching of matrix information to cut down the repetitive workload handled
+### by R. Cached information can be used to perform various operations without the need of
+### recomputations.
 
 ## Function to create special "matrix" object that can cache its inverse
 
